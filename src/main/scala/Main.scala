@@ -720,4 +720,4 @@ object MovieChatbot:
           Thread.sleep(1000) // Wait longer on error
       }
     }
-  }
+  } 
