@@ -1,6 +1,6 @@
 # Movie Chatbot with Trivia
 
-A Scala-based interactive chatbot that provides movie and TV show recommendations along with an engaging trivia game feature. The chatbot uses natural language processing to understand user queries and provides personalized recommendations based on various criteria such as genre, year, rating, and more.
+A Scala-based interactive rule-based chatbot that provides movie and TV show recommendations along with an engaging trivia game feature. The chatbot uses natural language processing to understand user queries and provides personalized recommendations based on various criteria such as genre, year, rating, and more.
 
 ## Features
 
