@@ -1,0 +1,476 @@
+[
+  {
+      "question": "Which Egyptian TV series is a comedy that follows the life of a man who discovers he has a twin brother, leading to a series of humorous events?",
+      "choices": ["El-Gama'a", "El-Nemr", "El-Kabeer Awy", "El-Caesar"],
+      "answer": "El-Kabeer Awy",
+      "langType": "arabictvshows"
+  },
+  {
+      "question": "Who played the lead role in the popular Egyptian series 'Grand Hotel'?",
+      "choices": ["Amr Youssef", "Ahmed El Sakka", "Mohamed Ramadan", "Youssef El Sherif"],
+      "answer": "Amr Youssef",
+      "langType": "arabictvshows"
+  },
+  {
+      "question": "Which Ramadan TV series featured Yehia El-Fakharany as a tyrannical father with a strict hold on his five daughters?",
+      "choices": ["Li'abet El Nesyan", "Layali El Helmiya", "Wanoos", "Al Ab Al Rohi"],
+      "answer": "Wanoos",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian historical drama series that depicted the life of Egypt's Jewish community in the 1940s?",
+      "choices": ["Haret El Yahood", "Ana Shahira Ana El Khaen", "Saraya Abdeen", "El Gamaah"],
+      "answer": "Haret El Yahood",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series tells the story of a young man named Omar who falls in love with his cousin Dalia?",
+      "choices": ["Layali El Helmiya", "Lan A'ish Fi Jilbab Abi", "Haza Al Masaa", "Hadith El Sabah Wal Masaa"],
+      "answer": "Lan A'ish Fi Jilbab Abi",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Nelly Karim play a woman who was wrongfully imprisoned?",
+      "choices": ["Segn El Nesa", "Taht El Saytara", "Zat", "Wahet El Ghoroub"],
+      "answer": "Segn El Nesa",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian actor starred as Hassan El Banaa, the founder of the Muslim Brotherhood, in the TV series 'El Gama'a'?",
+      "choices": ["Eyad Nassar", "Ahmed Malek", "Mohamed Farrag", "Ahmed Hatem"],
+      "answer": "Eyad Nassar",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What is the name of the Egyptian TV show that follows the story of a young man who becomes involved in drug trafficking?",
+      "choices": ["Taht El Saytara", "El Prince", "El Caesar", "Kalabsh"],
+      "answer": "Taht El Saytara",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which TV series starred Adel Imam as a retired school teacher who decides to fight corruption?",
+      "choices": ["Saheb El Saada", "Afaret El Asphalt", "Valentino", "Mamoun wa Shurakah"],
+      "answer": "Saheb El Saada",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian drama series that chronicled the lives of residents in a poor Cairo neighborhood from the 1960s to the 1980s?",
+      "choices": ["Afrah El Qobba", "Layali El Helmiya", "Lan A'ish Fi Jilbab Abi", "Al Aahd"],
+      "answer": "Layali El Helmiya",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series featured the character 'Amr Mahmoud Abdel-Aziz' as a successful businessman who returns to Egypt after 20 years abroad?",
+      "choices": ["Le'bet El Nesyan", "Khas Gidan", "Al Ostoora", "Grand Hotel"],
+      "answer": "Le'bet El Nesyan",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Who directed the popular Egyptian TV series 'Afrah El Qobba'?",
+      "choices": ["Mohamed Yassin", "Kamla Abu Zekry", "Sandra Nashaat", "Tamer Mohsen"],
+      "answer": "Mohamed Yassin",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series was based on a novel by Nobel Prize winner Naguib Mahfouz?",
+      "choices": ["Afrah El Qobba", "Al Malek Farouk", "Zizinia", "Lan A'ish Fi Jilbab Abi"],
+      "answer": "Afrah El Qobba",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which TV series did Amir Karara play the role of a police officer named Selim Al Ansari?",
+      "choices": ["Kalabsh", "Haza Al Masaa", "The Cell", "Tayea"],
+      "answer": "Kalabsh",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted the story of a female doctor who falls in love with her colleague?",
+      "choices": ["Hikayat Banat", "Halawat El Dunia", "Abu El Arousa", "Kalam Ala Waraq"],
+      "answer": "Halawat El Dunia",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series focused on the life of King Farouk, the last king of Egypt?",
+      "choices": ["El Malek", "Saraya Abdeen", "El Adham", "Al Malek Farouk"],
+      "answer": "Al Malek Farouk",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the historical drama series starring Youssef El Sherif as Ahmed Orabi?",
+      "choices": ["Kafr Delhab", "El Adham", "Kenz", "Al Nehaya"],
+      "answer": "Kenz",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series featured Mohamed Ramadan as a gangster named Refaee El Desouky?",
+      "choices": ["El Prince", "El Ostoora", "Nesr El Saeed", "Zelzal"],
+      "answer": "El Prince",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which series did Mona Zaki play the role of Zat, a woman whose life parallels the political and social changes in Egypt?",
+      "choices": ["Afrah El Qobba", "Zat", "Hikayat Banat", "Segn El Nesa"],
+      "answer": "Zat",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What TV series featured Nelly Karim as a psychiatrist specializing in addiction treatment?",
+      "choices": ["Segn El Nesa", "Taht El Saytara", "100 Wesh", "Fi Kol Esboa Youm Gomaa"],
+      "answer": "Taht El Saytara",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series was set in Alexandria during the 1940s and dealt with the Jewish community in Egypt?",
+      "choices": ["Haret El Yahood", "Ana Shahira Ana El Khaen", "Zizinia", "Grand Hotel"],
+      "answer": "Zizinia",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Who played the lead role in the Egyptian series 'El Ostoora'?",
+      "choices": ["Mohamed Ramadan", "Amir Karara", "Ahmed El Sakka", "Karim Abdel Aziz"],
+      "answer": "Mohamed Ramadan",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted the life of Al-Azhar scholars?",
+      "choices": ["Al Ab Al Rohi", "El Gama'a", "Fi Kol Esboa Youm Gomaa", "Mawlana Al-Asheq"],
+      "answer": "Al Ab Al Rohi",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series was about a successful businessman who gets diagnosed with cancer and tries to fix his past mistakes?",
+      "choices": ["Abu Omar El Masry", "Layali Eugenie", "Zelzal", "Le'bet El Haya"],
+      "answer": "Le'bet El Haya",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Yehia El-Fakharany play the role of a theater director?",
+      "choices": ["Layali El Helmiya", "Dahsha", "Saheb El Saada", "Wanoos"],
+      "answer": "Dahsha",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian series that dealt with women's issues in a Cairo prison?",
+      "choices": ["Segn El Nesa", "Zat", "Hikayat Banat", "Halawat El Dunia"],
+      "answer": "Segn El Nesa",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series was set in a luxury hotel in Aswan during the 1950s?",
+      "choices": ["Grand Hotel", "Saraya Abdeen", "Wahet El Ghoroub", "Layali Eugenie"],
+      "answer": "Grand Hotel",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Who wrote the screenplay for the Egyptian TV series 'Afrah El Qobba'?",
+      "choices": ["Wahid Hamed", "Mariam Naoum", "Tamer Habib", "Medhat El Adl"],
+      "answer": "Mariam Naoum",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of an Egyptian spy in Israel?",
+      "choices": ["Raafat El Haggan", "Abu Omar El Masry", "El Zaibaq", "Kalabsh"],
+      "answer": "Raafat El Haggan",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series featured Ahmed El Sakka as a former special operations officer working to avenge his brother's death?",
+      "choices": ["El Caesar", "El Malek", "El Gezira", "Nesr El Saeed"],
+      "answer": "El Caesar",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Amr Youssef play the role of a lawyer named Tarek Nour?",
+      "choices": ["Abu Omar El Masry", "Grand Hotel", "El Haiba", "Taqet Nour"],
+      "answer": "Taqet Nour",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian medical drama series that follows the lives of doctors working in a government hospital?",
+      "choices": ["El Aahd", "Daktor Amrad Nissa", "Estefa Aadi", "Ladayna Akwal Okhra"],
+      "answer": "Ladayna Akwal Okhra",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series featured Ghada Abdel Razek as Ghalia, a powerful businesswoman?",
+      "choices": ["Hekayet Hayat", "Ard Gaw", "El Sayeda El Oula", "Rahim"],
+      "answer": "El Sayeda El Oula",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a school teacher who inherits a large fortune?",
+      "choices": ["Al Ostoora", "Afaret El Asphalt", "Saheb El Saada", "Mamoun wa Shurakah"],
+      "answer": "Saheb El Saada",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian series did Dina El Sherbiny play the role of a woman with a split personality?",
+      "choices": ["Malika", "Fi Kol Esboa Youm Gomaa", "Zay El Shams", "Le'bet El Nesyan"],
+      "answer": "Malika",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that centered around a rural family whose daughter marries into a wealthy urban family?",
+      "choices": ["Abu El Arousa", "Kalam Ala Waraq", "Al Ahd", "Zelzal"],
+      "answer": "Abu El Arousa",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series featured Amr Youssef as an Egyptian lawyer who works in Sudan?",
+      "choices": ["Tayea", "Abu Omar El Masry", "Grand Hotel", "El Haiba"],
+      "answer": "Abu Omar El Masry",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted life in Egypt during the 1960s through the story of a radio presenter?",
+      "choices": ["Haza Al Masaa", "Wahet El Ghoroub", "Zay El Shams", "Hadith El Sabah Wal Masaa"],
+      "answer": "Hadith El Sabah Wal Masaa",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series was based on the novel 'Bab El Khalq' by Youssef El Sibai?",
+      "choices": ["El Leila El Kebira", "Bab El Khalq", "Layali El Helmiya", "Afrah El Qobba"],
+      "answer": "Bab El Khalq",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Nelly Karim play a working woman dealing with sexual harassment in the workplace?",
+      "choices": ["Zat", "100 Wesh", "Leh La2", "B 100 Wesh"],
+      "answer": "Leh La2",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian series that featured Mohamed Mamdouh as a con artist named Omar?",
+      "choices": ["Le'bet El Nesyan", "B 100 Wesh", "El Prince", "Khas Gidan"],
+      "answer": "B 100 Wesh",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series was set in 1910-1920 and focused on the lives of a family in the oasis of El Wahat?",
+      "choices": ["Saraya Abdeen", "Wahet El Ghoroub", "Grand Hotel", "Haret El Yahood"],
+      "answer": "Wahet El Ghoroub",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian series directed by Kamla Abu Zekry and starring Nelly Karim as a photographer named Zeinab?",
+      "choices": ["Haza Al Masaa", "Zat", "Wahet El Ghoroub", "Segn El Nesa"],
+      "answer": "Haza Al Masaa",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Yousra play the role of a famous actress named Farida?",
+      "choices": ["Ladayna Akwal Okhra", "Khyanet Ahd", "Ana Shahira Ana El Khaen", "Saraya Abdeen"],
+      "answer": "Ana Shahira Ana El Khaen",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series featured Ahmed Dawood as a police officer investigating strange phenomena in a rural village?",
+      "choices": ["Kafr Delhab", "Bab El Khalq", "El Nehaya", "Rahim"],
+      "answer": "Kafr Delhab",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a family in Alexandria during the British occupation?",
+      "choices": ["Layali Eugenie", "Grand Hotel", "Haret El Yahood", "Saraya Abdeen"],
+      "answer": "Layali Eugenie",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series featured Mohamed Ramadan as a police officer named Selim El Ansari?",
+      "choices": ["El Ostoora", "El Prince", "Nesr El Saeed", "Kalabsh"],
+      "answer": "El Ostoora",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Amr Youssef play the role of a Bedouin man named Tayea?",
+      "choices": ["Abu Omar El Masry", "El Haiba", "Tayea", "Grand Hotel"],
+      "answer": "Tayea",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian series that depicted the life of a poor woman who becomes wealthy after working as a maid for a rich family?",
+      "choices": ["Kalam Ala Waraq", "Hekayet Hayat", "Sekat El Safar", "Abu El Arousa"],
+      "answer": "Kalam Ala Waraq",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series featured Sherif Mounir as a former army officer who returns to his village in Upper Egypt?",
+      "choices": ["Nesr El Saeed", "El Prince", "El Caesar", "Tayea"],
+      "answer": "Nesr El Saeed",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a woman who discovers that her sister is her daughter?",
+      "choices": ["Sekat El Safar", "Zay El Shams", "El Sayeda El Oula", "Malika"],
+      "answer": "Zay El Shams",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian series did Mai Ezz Eldin play twins with opposing personalities?",
+      "choices": ["Raseef El Nour", "Li'abet El Nesyan", "Malika", "Khatem Suleiman"],
+      "answer": "Raseef El Nour",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted the life of a female judge?",
+      "choices": ["Hekayet Hayat", "Zat", "Segn El Nesa", "El Sayeda El Oula"],
+      "answer": "Hekayet Hayat",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series featured Ahmed Fahmy as a young man who pretends to be from a poor background to win a girl's heart?",
+      "choices": ["Rayah El Madam", "El Ab El Rohi", "Abu El Arousa", "Al Ahd"],
+      "answer": "Rayah El Madam",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a high school teacher who gets involved in the drug trade?",
+      "choices": ["El Kabeer Awy", "Afaret El Asphalt", "El Prince", "Breaking Bad"],
+      "answer": "Afaret El Asphalt",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Youssef El Sherif play the role of a scientist living in a post-apocalyptic future?",
+      "choices": ["El Nehaya", "Kafr Delhab", "Kenz", "Bab El Khalq"],
+      "answer": "El Nehaya",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted the life of the Khedive Ismail?",
+      "choices": ["Al Malek Farouk", "Saraya Abdeen", "Wahet El Ghoroub", "Grand Hotel"],
+      "answer": "Saraya Abdeen",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series was set in a fictional village called Kafr Delhab?",
+      "choices": ["El Nehaya", "Kafr Delhab", "Afaret El Asphalt", "Layali El Helmiya"],
+      "answer": "Kafr Delhab",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a contractor whose building collapses, killing several people?",
+      "choices": ["Zelzal", "El Prince", "Abu El Arousa", "Tayea"],
+      "answer": "Zelzal",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Mai Ezz Eldin play the role of a woman who loses her memory after an accident?",
+      "choices": ["Raseef El Nour", "Li'abet El Nesyan", "Khyanet Ahd", "Malika"],
+      "answer": "Li'abet El Nesyan",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted the life of a retired intelligence officer played by Adel Imam?",
+      "choices": ["Raafat El Haggan", "Mamoun wa Shurakah", "Saheb El Saada", "Valentino"],
+      "answer": "Mamoun wa Shurakah",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series featured Mohamed Ramadan as a young man from Upper Egypt who moves to Cairo to avenge his father's death?",
+      "choices": ["El Prince", "Nesr El Saeed", "El Ostoora", "Kalabsh"],
+      "answer": "Nesr El Saeed",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a young man who returns from abroad to find his father's business empire taken over by his uncle?",
+      "choices": ["Al Ahd", "El Malek", "El Haiba", "El Prince"],
+      "answer": "Al Ahd",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian series did Adel Imam play the role of a businessman named Valentino who owns a chain of schools?",
+      "choices": ["Valentino", "Saheb El Saada", "Mamoun wa Shurakah", "Afaret El Asphalt"],
+      "answer": "Valentino",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted the lives of three sisters and their daily struggles?",
+      "choices": ["Hikayat Banat", "Zay El Shams", "Halawat El Dunia", "Malika"],
+      "answer": "Hikayat Banat",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series was based on Ahmed Murad's novel 'Blue Elephant'?",
+      "choices": ["El Feel El Azraq", "Nesr El Saeed", "Kalabsh", "Abu Omar El Masry"],
+      "answer": "El Feel El Azraq",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a group of friends who start a business together?",
+      "choices": ["Shaqet Faisal", "B 100 Wesh", "Le'bet El Haya", "Sekat El Safar"],
+      "answer": "Shaqet Faisal",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Dhafer L'Abidine play the role of a doctor named Selim?",
+      "choices": ["Halawat El Dunia", "Taht El Saytara", "Afrah El Qobba", "Fi Kol Esboa Youm Gomaa"],
+      "answer": "Halawat El Dunia",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted the life of a woman who works as a prison guard?",
+      "choices": ["Segn El Nesa", "Zat", "Hekayet Hayat", "Hikayat Banat"],
+      "answer": "Segn El Nesa",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series featured Khaled El Nabawy as a man who returns to Egypt after living abroad for many years?",
+      "choices": ["Wahet El Ghoroub", "Haza Al Masaa", "Khas Gidan", "Afrah El Qobba"],
+      "answer": "Khas Gidan",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a young woman who discovers that her father is not her biological father?",
+      "choices": ["Zay El Shams", "Sekat El Safar", "Malika", "Hekayet Hayat"],
+      "answer": "Sekat El Safar",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian series did Yousra play the role of a psychiatrist named Farida?",
+      "choices": ["Ladayna Akwal Okhra", "Ana Shahira Ana El Khaen", "Fi Kol Esboa Youm Gomaa", "Khyanet Ahd"],
+      "answer": "Ladayna Akwal Okhra",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted the life of a female judge who faces a difficult personal case?",
+      "choices": ["Hekayet Hayat", "Zat", "Zay El Shams", "Malika"],
+      "answer": "Hekayet Hayat",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian TV series featured Amr Youssef as an officer in the special forces?",
+      "choices": ["Tayea", "Abu Omar El Masry", "El Haiba", "Taqet Nour"],
+      "answer": "El Haiba",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a man who loses his wife in a car accident and discovers she was cheating on him?",
+      "choices": ["Khyanet Ahd", "Li'abet El Nesyan", "Le'bet El Haya", "Kalam Ala Waraq"],
+      "answer": "Khyanet Ahd",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "In which Egyptian TV series did Ahmed Zaher play the role of a ruthless businessman named Akram?",
+      "choices": ["Abu El Arousa", "Al Ahd", "El Malek", "El Prince"],
+      "answer": "Abu El Arousa",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that depicted the life of a group of young people during the January 25 Revolution?",
+      "choices": ["Taht El Saytara", "Moga Harra", "El Caesar", "Haza Al Masaa"],
+      "answer": "Moga Harra",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "Which Egyptian series was set in the 1950s and depicted the life of a family in a small village in Upper Egypt?",
+      "choices": ["Layali El Helmiya", "Wahet El Ghoroub", "Saraya Abdeen", "Tayea"],
+      "answer": "Wahet El Ghoroub",
+      "langType": "arabictvshows"
+    },
+    {
+      "question": "What was the name of the Egyptian TV series that followed the story of a man who returns to his village after living in Cairo for many years?",
+      "choices": ["Nesr El Saeed", "Tayea", "El Prince", "Zelzal"],
+      "answer": "Tayea",
+      "langType": "arabictvshows"
+    }
+]

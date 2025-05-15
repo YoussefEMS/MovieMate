@@ -1,0 +1,548 @@
+[
+    {
+      "question": "Who directed the movie 'Inception'?",
+      "choices": ["James Cameron", "Christopher Nolan", "Steven Spielberg", "Quentin Tarantino"],
+      "answer": "Christopher Nolan",
+      "langType": "englishmovies"
+    },
+    {
+      "question": "Which actress played the lead role in 'Erin Brockovich'?",
+      "choices": ["Sandra Bullock", "Julia Roberts", "Nicole Kidman", "Reese Witherspoon"],
+      "answer": "Julia Roberts",
+      "langType": "englishmovies"
+    },
+    {
+      "question": "What is the name of the hobbit played by Elijah Wood in 'The Lord of the Rings'?",
+      "choices": ["Samwise Gamgee", "Bilbo Baggins", "Frodo Baggins", "Peregrin Took"],
+      "answer": "Frodo Baggins",
+      "langType": "englishmovies"
+    },
+    {
+      "question": "Which 1994 film features the character Andy Dufresne?",
+      "choices": ["Se7en", "The Shawshank Redemption", "Forrest Gump", "Pulp Fiction"],
+      "answer": "The Shawshank Redemption",
+      "langType": "englishmovies"
+    },
+    {
+      "question": "Which Marvel movie introduced the character Black Panther?",
+      "choices": ["Iron Man 3", "Avengers: Infinity War", "Captain America: Civil War", "Black Panther"],
+      "answer": "Captain America: Civil War",
+      "langType": "englishmovies"
+    },
+    {
+      "question": "Who played Jack in the movie 'Titanic'?",
+      "choices": ["Leonardo DiCaprio", "Matt Damon", "Tom Cruise", "Brad Pitt"],
+      "answer": "Leonardo DiCaprio",
+      "langType": "englishmovies"
+    },
+    {
+      "question": "Which movie won Best Picture at the 2020 Oscars?",
+      "choices": ["Parasite", "1917", "Joker", "Once Upon a Time in Hollywood"],
+      "answer": "Parasite",
+      "langType": "englishmovies"
+    },
+    {
+      "question": "Who directed 'Pulp Fiction'?",
+      "choices": ["Guy Ritchie", "Steven Soderbergh", "Martin Scorsese", "Quentin Tarantino"],
+      "answer": "Quentin Tarantino",
+      "langType": "englishmovies"
+    },
+    {
+      "question": "In 'The Matrix', what color pill does Neo take?",
+      "choices": ["Red", "Green", "Yellow", "Blue"],
+      "answer": "Red",
+      "langType": "englishmovies"
+    },
+    {
+      "question": "Who voiced Woody in 'Toy Story'?",
+      "choices": ["Tom Hanks", "Billy Crystal", "Robin Williams", "Tim Allen"],
+      "answer": "Tom Hanks",
+      "langType": "englishmovies"
+    },
+    {
+        "question": "Which movie features a character named Tyler Durden?",
+        "choices": ["Se7en", "The Machinist", "Memento", "Fight Club"],
+        "answer": "Fight Club",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which 2008 movie starred Robert Downey Jr. as Tony Stark?",
+        "choices": ["Iron Man", "Thor", "Captain America", "The Incredible Hulk"],
+        "answer": "Iron Man",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie is about a theme park with cloned dinosaurs?",
+        "choices": ["Avatar", "Jurassic Park", "The Lost World", "King Kong"],
+        "answer": "Jurassic Park",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In which film does the character Joker say, 'Why so serious?'?",
+        "choices": ["Joker", "Suicide Squad", "The Dark Knight", "Batman Begins"],
+        "answer": "The Dark Knight",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What is the highest-grossing movie of all time (as of 2024)?",
+        "choices": ["Avengers: Endgame", "Star Wars: The Force Awakens", "Avatar", "Titanic"],
+        "answer": "Avatar",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who played Hermione Granger in the 'Harry Potter' series?",
+        "choices": ["Keira Knightley", "Emma Stone", "Emma Watson", "Natalie Portman"],
+        "answer": "Emma Watson",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What’s the name of the second James Bond movie?",
+        "choices": ["From Russia with Love", "Goldfinger", "Thunderball", "Dr. No"],
+        "answer": "From Russia with Love",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which actor played Forrest Gump?",
+        "choices": ["Robin Williams", "Tom Hanks", "John Travolta", "Bill Murray"],
+        "answer": "Tom Hanks",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed 'The Grand Budapest Hotel'?",
+        "choices": ["Wes Anderson", "Greta Gerwig", "Noah Baumbach", "David Fincher"],
+        "answer": "Wes Anderson",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie is set in a dystopian future ruled by an AI called Skynet?",
+        "choices": ["Blade Runner", "I, Robot", "The Terminator", "The Matrix"],
+        "answer": "The Terminator",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which film had the song 'My Heart Will Go On'?",
+        "choices": ["Pretty Woman", "Titanic", "Ghost", "The Bodyguard"],
+        "answer": "Titanic",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie is known for the quote 'You can't handle the truth!'?",
+        "choices": ["The Godfather", "The Departed", "A Few Good Men", "Goodfellas"],
+        "answer": "A Few Good Men",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed 'Schindler’s List'?",
+        "choices": ["Ridley Scott", "Clint Eastwood", "Steven Spielberg", "Roman Polanski"],
+        "answer": "Steven Spielberg",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who played the Joker in 'The Dark Knight'?",
+        "choices": ["Joaquin Phoenix", "Heath Ledger", "Jack Nicholson", "Jared Leto"],
+        "answer": "Heath Ledger",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie featured a computer named HAL 9000?",
+        "choices": ["Ex Machina", "The Matrix", "Blade Runner", "2001: A Space Odyssey"],
+        "answer": "2001: A Space Odyssey",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which actor starred in 'Top Gun' and 'Mission: Impossible'?",
+        "choices": ["Nicolas Cage", "Bruce Willis", "Keanu Reeves", "Tom Cruise"],
+        "answer": "Tom Cruise",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In which movie does Liam Neeson say 'I will find you, and I will kill you'?",
+        "choices": ["Taken", "Unknown", "Non-Stop", "The Grey"],
+        "answer": "Taken",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie tells the story of Facebook’s founding?",
+        "choices": ["The Big Short", "The Social Network", "Steve Jobs", "Moneyball"],
+        "answer": "The Social Network",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which musical won Best Picture in 2017?",
+        "choices": ["The Shape of Water", "Moonlight", "Green Book", "La La Land"],
+        "answer": "The Shape of Water",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who played Wolverine in the 'X-Men' series?",
+        "choices": ["Hugh Jackman", "Ben Affleck", "Ryan Reynolds", "Chris Evans"],
+        "answer": "Hugh Jackman",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie features the character Gollum?",
+        "choices": ["The Hobbit", "Harry Potter", "The Lord of the Rings", "Narnia"],
+        "answer": "The Lord of the Rings",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who plays John Wick?",
+        "choices": ["Jason Statham", "Vin Diesel", "Keanu Reeves", "Matt Damon"],
+        "answer": "Keanu Reeves",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In which film does a bus explode if it goes under 50 mph?",
+        "choices": ["Die Hard", "Mad Max", "The Italian Job", "Speed"],
+        "answer": "Speed",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What is the name of the second Avengers movie?",
+        "choices": ["Captain America: Civil War", "Avengers: Age of Ultron", "Avengers: Infinity War", "Avengers: Endgame"],
+        "answer": "Avengers: Age of Ultron",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed 'The Revenant'?",
+        "choices": ["Alejandro González Iñárritu", "Christopher Nolan", "Ridley Scott", "Alfonso Cuarón"],
+        "answer": "Alejandro González Iñárritu",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What’s the name of the kingdom in 'Frozen'?",
+        "choices": ["Genovia", "Arendelle", "Westeros", "Narnia"],
+        "answer": "Arendelle",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie features the song 'Let It Go'?",
+        "choices": ["Frozen", "Tangled", "Moana", "Brave"],
+        "answer": "Frozen",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What is the name of the hotel in 'The Shining'?",
+        "choices": ["The Timberline", "The Highland", "The Overlook Hotel", "The Grand Hotel"],
+        "answer": "The Overlook Hotel",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which actor played Deadpool?",
+        "choices": ["Ryan Reynolds", "Chris Pratt", "Mark Ruffalo", "Jake Gyllenhaal"],
+        "answer": "Ryan Reynolds",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who played Katniss Everdeen in 'The Hunger Games'?",
+        "choices": ["Shailene Woodley", "Jennifer Lawrence", "Emma Watson", "Margot Robbie"],
+        "answer": "Jennifer Lawrence",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who played the character of Harry Potter?",
+        "choices": ["Daniel Radcliffe", "Rupert Grint", "Tom Felton", "Matthew Lewis"],
+        "answer": "Daniel Radcliffe",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In which film do we hear the famous line 'I’ll be back'?",
+        "choices": ["Total Recall", "Terminator 2: Judgment Day", "The Matrix", "Die Hard"],
+        "answer": "The Terminator",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie is about a young girl discovering her powers in a magical school?",
+        "choices": ["Percy Jackson & the Olympians", "Harry Potter and the Sorcerer's Stone", "Matilda", "The Chronicles of Narnia"],
+        "answer": "Harry Potter and the Sorcerer's Stone",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What movie features a character called The Bride?",
+        "choices": ["Kill Bill", "Pulp Fiction", "The Matrix", "Mad Max: Fury Road"],
+        "answer": "Kill Bill",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed the movie 'The Dark Knight'?",
+        "choices": ["Christopher Nolan", "David Fincher", "Quentin Tarantino", "Martin Scorsese"],
+        "answer": "Christopher Nolan",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In 'Star Wars: A New Hope,' who is Luke Skywalker's father?",
+        "choices": ["Obi-Wan Kenobi", "Anakin Skywalker", "Han Solo", "Darth Vader"],
+        "answer": "Darth Vader",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which animated film features the character Simba?",
+        "choices": ["Finding Nemo", "The Lion King", "Aladdin", "Pocahontas"],
+        "answer": "The Lion King",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who starred in the 2003 movie 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
+        "choices": ["Johnny Depp", "Orlando Bloom", "Brad Pitt", "Tom Cruise"],
+        "answer": "Johnny Depp",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What is the name of the fictional African country in 'Black Panther'?",
+        "choices": ["Zamunda", "Wakanda", "Genovia", "Elbonia"],
+        "answer": "Wakanda",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who played the lead role in the 2014 film 'Interstellar'?",
+        "choices": ["Matthew McConaughey", "Brad Pitt", "Ryan Gosling", "Tom Hanks"],
+        "answer": "Matthew McConaughey",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed 'Inception'?",
+        "choices": ["Steven Spielberg", "Christopher Nolan", "Martin Scorsese", "Quentin Tarantino"],
+        "answer": "Christopher Nolan",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which actor played Jack Dawson in 'Titanic'?",
+        "choices": ["Johnny Depp", "Brad Pitt", "Leonardo DiCaprio", "Matt Damon"],
+        "answer": "Leonardo DiCaprio",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which film features the character 'Forrest Gump'?",
+        "choices": ["The Pursuit of Happyness", "Cast Away", "Forrest Gump", "A Beautiful Mind"],
+        "answer": "Forrest Gump",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What’s the name of the fictional wizarding school in the 'Harry Potter' series?",
+        "choices": ["Hogwarts", "Durmstrang", "Beauxbatons", "Ilvermorny"],
+        "answer": "Hogwarts",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who starred in the movie 'The Matrix'?",
+        "choices": ["Will Smith", "Keanu Reeves", "Tom Cruise", "Brad Pitt"],
+        "answer": "Keanu Reeves",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie won the Academy Award for Best Picture in 1994?",
+        "choices": ["Pulp Fiction", "The Shawshank Redemption", "Forrest Gump", "The Godfather"],
+        "answer": "Forrest Gump",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie features a robot named WALL-E?",
+        "choices": ["Avatar", "WALL-E", "The Iron Giant", "I, Robot"],
+        "answer": "WALL-E",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which actor played Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+        "choices": ["Chris Hemsworth", "Chris Evans", "Robert Downey Jr.", "Mark Ruffalo"],
+        "answer": "Robert Downey Jr.",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie was the first to feature Spider-Man in the Marvel Cinematic Universe?",
+        "choices": ["Avengers: Age of Ultron", "Captain America: Civil War", "Spider-Man: Homecoming", "Iron Man 3"],
+        "answer": "Captain America: Civil War",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed the film 'Pulp Fiction'?",
+        "choices": ["Quentin Tarantino", "Martin Scorsese", "Steven Spielberg", "David Fincher"],
+        "answer": "Quentin Tarantino",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In which film does the character 'The Dude' appear?",
+        "choices": ["Big Lebowski", "The Godfather", "Fargo", "No Country for Old Men"],
+        "answer": "Big Lebowski",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which 2017 film features a love story between a woman and a sea creature?",
+        "choices": ["Beauty and the Beast", "The Shape of Water", "A Quiet Place", "The Lobster"],
+        "answer": "The Shape of Water",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who played the role of The Godfather?",
+        "choices": ["Al Pacino", "Marlon Brando", "Robert De Niro", "Jack Nicholson"],
+        "answer": "Marlon Brando",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In which movie does the character 'Trinity' appear?",
+        "choices": ["Minority Report", "Inception", "The Dark Knight", "The Matrix"],
+        "answer": "The Matrix",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie is set during World War II and features a character named 'Rick Blaine'?",
+        "choices": ["The Great Escape", "Saving Private Ryan", "Casablanca", "Dunkirk"],
+        "answer": "Casablanca",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie features a character called 'The Bride' seeking revenge?",
+        "choices": ["Gladiator", "The Revenant", "The Punisher", "Kill Bill"],
+        "answer": "Kill Bill",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed the film 'The Shining'?",
+        "choices": ["David Lynch", "Stanley Kubrick", "Quentin Tarantino", "Steven Spielberg"],
+        "answer": "Stanley Kubrick",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which animated film is about a fish named Marlin searching for his son?",
+        "choices": ["Shrek", "Toy Story", "Monsters, Inc.", "Finding Nemo"],
+        "answer": "Finding Nemo",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In which film does the character 'The Dude' appear?",
+        "choices": ["The Dark Knight", "Fargo", "Big Lebowski", "No Country for Old Men"],
+        "answer": "Big Lebowski",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What is the name of the main character in 'The Terminator'?",
+        "choices": ["John Connor", "Kyle Reese", "Sarah Connor", "Arnold Schwarzenegger"],
+        "answer": "Sarah Connor",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In which movie does the character 'V' wear a Guy Fawkes mask?",
+        "choices": ["Watchmen", "The Matrix", "V for Vendetta", "The Dark Knight"],
+        "answer": "V for Vendetta",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed 'The Dark Knight'?",
+        "choices": ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "David Fincher"],
+        "answer": "Christopher Nolan",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie features the quote 'I see dead people'?",
+        "choices": ["The Sixth Sense", "The Ring", "Shutter Island", "The Others"],
+        "answer": "The Sixth Sense",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who starred as Jack in 'Titanic'?",
+        "choices": ["Matt Damon", "Johnny Depp", "Brad Pitt", "Leonardo DiCaprio"],
+        "answer": "Leonardo DiCaprio",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What movie features a fictional creature called 'King Kong'?",
+        "choices": ["Godzilla", "King Kong", "Jurassic Park", "The Lost World"],
+        "answer": "King Kong",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie features the character 'Gollum'?",
+        "choices": ["The Hobbit", "The Lord of the Rings", "Harry Potter", "The Chronicles of Narnia"],
+        "answer": "The Lord of the Rings",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie is about a man trapped in a room for 23 years?",
+        "choices": ["The Pianist", "12 Monkeys", "Oldboy", "Revolver"],
+        "answer": "Oldboy",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed 'Pulp Fiction'?",
+        "choices": ["David Lynch", "Quentin Tarantino", "Martin Scorsese", "Stanley Kubrick"],
+        "answer": "Quentin Tarantino",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who played the role of Neo in 'The Matrix'?",
+        "choices": ["Will Smith", "Keanu Reeves", "Tom Cruise", "Brad Pitt"],
+        "answer": "Keanu Reeves",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "In which film does the character 'Joker' appear?",
+        "choices": ["The Dark Knight", "Avengers: Endgame", "Spider-Man: Homecoming", "Deadpool"],
+        "answer": "The Dark Knight",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie involves a famous battle called 'The Battle of Helm's Deep'?",
+        "choices": ["The Lord of the Rings: The Two Towers", "Gladiator", "300", "Braveheart"],
+        "answer": "The Lord of the Rings: The Two Towers",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed 'Inception'?",
+        "choices": ["Quentin Tarantino", "Steven Spielberg", "Christopher Nolan", "Martin Scorsese"],
+        "answer": "Christopher Nolan",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which actor starred as the character 'Tony Stark/Iron Man' in the MCU?",
+        "choices": ["Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Robert Downey Jr."],
+        "answer": "Robert Downey Jr.",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which film features the character 'Jack Sparrow'?",
+        "choices": ["Pirates of the Caribbean: The Curse of the Black Pearl", "Indiana Jones", "Treasure Island", "The Goonies"],
+        "answer": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who played the role of 'Darth Vader' in 'Star Wars'?",
+        "choices": ["Mark Hamill", "Harrison Ford", "James Earl Jones", "David Prowse"],
+        "answer": "David Prowse",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "What is the name of the fictional island in 'Jurassic Park'?",
+        "choices": ["Isla Muerte", "Isla Nublar", "Isla Verde", "Isla Isla"],
+        "answer": "Isla Nublar",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie won the Academy Award for Best Picture in 1999?",
+        "choices": ["Titanic", "American Beauty", "Forrest Gump", "The Matrix"],
+        "answer": "American Beauty",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which animated movie features a character named 'Woody'?",
+        "choices": ["Monsters, Inc.", "Shrek", "Cars", "Toy Story"],
+        "answer": "Toy Story",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie features the character 'Gandalf'?",
+        "choices": ["The Chronicles of Narnia", "The Hobbit", "The Lord of the Rings", "Harry Potter"],
+        "answer": "The Lord of the Rings",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Who directed the 1994 movie 'Forrest Gump'?",
+        "choices": ["Steven Spielberg", "Robert Zemeckis", "Clint Eastwood", "Francis Ford Coppola"],
+        "answer": "Robert Zemeckis",
+        "langType": "englishmovies"
+      },
+      {
+        "question": "Which movie features a computer virus called 'The Matrix'?",
+        "choices": ["I, Robot", "Minority Report", "The Terminator", "The Matrix"],
+        "answer": "The Matrix",
+        "langType": "englishmovies"
+      }
+    ]

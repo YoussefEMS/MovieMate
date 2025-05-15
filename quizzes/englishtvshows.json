@@ -1,0 +1,467 @@
+[
+    {
+      "question": "What is the name of the coffee shop in 'Friends'?",
+      "choices": ["Coffee Corner", "Central Perk", "Daily Grind", "Java House"],
+      "answer": "Central Perk",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who is the main character in 'Breaking Bad'?",
+      "choices": ["Hank Schrader", "Saul Goodman", "Walter White", "Jesse Pinkman"],
+      "answer": "Walter White",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which TV show features a group of survivors after a zombie apocalypse?",
+      "choices": ["Lost", "The 100", "The Walking Dead", "Supernatural"],
+      "answer": "The Walking Dead",
+      "langType": "englishtvshows"
+    },
+
+    {
+      "question": "What is the real name of the superhero known as 'The Flash'?",
+      "choices": ["Clark Kent", "Bruce Wayne", "Barry Allen", "Peter Parker"],
+      "answer": "Barry Allen",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which long-running medical drama is set in Grey Sloan Memorial Hospital?",
+      "choices": ["The Good Doctor", "House", "Grey's Anatomy", "ER"],
+      "answer": "Grey's Anatomy",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the pub in 'How I Met Your Mother'?",
+      "choices": ["The Drunken Clam", "Cheers", "MacLaren's Pub", "Paddy's Pub"],
+      "answer": "MacLaren's Pub",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who is the main female lead in 'The Crown' Season 1?",
+      "choices": ["Claire Foy", "Emma Corrin", "Helena Bonham Carter", "Olivia Colman"],
+      "answer": "Claire Foy",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which TV series is based on a chemistry teacher turning to making meth?",
+      "choices": ["Ozark", "Breaking Bad", "Narcos", "Better Call Saul"],
+      "answer": "Breaking Bad",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who plays Eleven in 'Stranger Things'?",
+      "choices": ["Sadie Sink", "Natalia Dyer", "Millie Bobby Brown", "Winona Ryder"],
+      "answer": "Millie Bobby Brown",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the high school in 'Riverdale'?",
+      "choices": ["Sunnydale High", "Liberty High", "Riverdale High", "Springfield High"],
+      "answer": "Riverdale High",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which show follows the lives of the Pearson family?",
+      "choices": ["This Is Us", "A Million Little Things", "Parenthood", "Brothers & Sisters"],
+      "answer": "This Is Us",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the town in 'Stranger Things'?",
+      "choices": ["Riverdale", "Beacon Hills", "Hawkins", "Sunnydale"],
+      "answer": "Hawkins",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which TV series is set in Pasadena and features a group of nerds and scientists?",
+      "choices": ["Silicon Valley", "The Big Bang Theory", "Mr. Robot", "Young Sheldon"],
+      "answer": "The Big Bang Theory",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Peaky Blinders', what is the name of the gang leader?",
+      "choices": ["Tommy Shelby", "Alfie Solomons", "Arthur Shelby", "Luca Changretta"],
+      "answer": "Tommy Shelby",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which show is set in the fictional town of Pawnee, Indiana?",
+      "choices": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Community"],
+      "answer": "Parks and Recreation",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Black Mirror', what is the episode 'San Junipero' primarily about?",
+      "choices": ["A VR love story", "A robot uprising", "A digital prison", "Social media scoring"],
+      "answer": "A VR love story",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who is the main detective in 'Luther'?",
+      "choices": ["John Luther", "Jimmy McNulty", "Sherlock Holmes", "Marcella Backland"],
+      "answer": "John Luther",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the planet visited in the first episode of 'Doctor Who' 2005?",
+      "choices": ["Earth", "New Earth", "Gallifrey", "Platform One"],
+      "answer": "Platform One",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'The Queen's Gambit', what game does Beth Harmon master?",
+      "choices": ["Chess", "Bridge", "Poker", "Checkers"],
+      "answer": "Chess",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which show features the phrase 'Winter is Coming'?",
+      "choices": ["Game of Thrones", "Vikings", "The Witcher", "Shadow and Bone"],
+      "answer": "Game of Thrones",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the profession of Dexter in 'Dexter'?",
+      "choices": ["Forensic Analyst", "Detective", "Surgeon", "Lawyer"],
+      "answer": "Forensic Analyst",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who is the leader of the Umbrella Academy?",
+      "choices": ["Luther", "Five", "Diego", "Ben"],
+      "answer": "Luther",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of BoJack's roommate in 'BoJack Horseman'?",
+      "choices": ["Todd", "Mr. Peanutbutter", "Diane", "Princess Carolyn"],
+      "answer": "Todd",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the AI in 'Person of Interest'?",
+      "choices": ["The Machine", "Samaritan", "Skynet", "Jarvis"],
+      "answer": "The Machine",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which show features a hacker named Elliot working for fsociety?",
+      "choices": ["Mr. Robot", "Silicon Valley", "Blacklist", "You"],
+      "answer": "Mr. Robot",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'House of Cards', who plays Frank Underwood?",
+      "choices": ["Kevin Spacey", "Bryan Cranston", "Jon Hamm", "Matthew McConaughey"],
+      "answer": "Kevin Spacey",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which actor plays Loki in the Marvel TV series?",
+      "choices": ["Tom Hiddleston", "Chris Hemsworth", "Sebastian Stan", "Jeremy Renner"],
+      "answer": "Tom Hiddleston",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'The Mandalorian', what is the real name of Baby Yoda?",
+      "choices": ["Yaddle", "Grogu", "Yoda Jr.", "Grogon"],
+      "answer": "Grogu",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which Netflix show involves a deadly game of children's games?",
+      "choices": ["Alice in Borderland", "Squid Game", "The 100", "The Society"],
+      "answer": "Squid Game",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What instrument does Lisa Simpson play?",
+      "choices": ["Violin", "Trumpet", "Saxophone", "Flute"],
+      "answer": "Saxophone",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which show features the Bluth family?",
+      "choices": ["Arrested Development", "Modern Family", "The Middle", "Family Guy"],
+      "answer": "Arrested Development",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who is known as 'Heisenberg' in 'Breaking Bad'?",
+      "choices": ["Walter White", "Jesse Pinkman", "Mike Ehrmantraut", "Gustavo Fring"],
+      "answer": "Walter White",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character is a telepath in 'X-Men' based show 'Legion'?",
+      "choices": ["David Haller", "Charles Xavier", "Erik Lehnsherr", "Logan"],
+      "answer": "David Haller",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which show includes the quote: 'You have failed this city'?",
+      "choices": ["Arrow", "The Flash", "Supergirl", "Titans"],
+      "answer": "Arrow",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which animated show follows the Smith family and an alien named Roger?",
+      "choices": ["Family Guy", "Rick and Morty", "American Dad!", "The Simpsons"],
+      "answer": "American Dad!",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the main town in 'Gilmore Girls'?",
+      "choices": ["Stars Hollow", "Rosewood", "Bluebell", "Fairview"],
+      "answer": "Stars Hollow",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character is known for saying 'Suit up!' in 'How I Met Your Mother'?",
+      "choices": ["Ted", "Barney", "Marshall", "Lily"],
+      "answer": "Barney",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character says 'Bazinga!' in 'The Big Bang Theory'?",
+      "choices": ["Leonard", "Sheldon", "Howard", "Raj"],
+      "answer": "Sheldon",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who was the first president of the United States?",
+      "choices": ["Andrew Jackson", "George Washington", "Thomas Jefferson", "Abraham Lincoln"],
+      "answer": "George Washington",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character in 'Friends' got stuck in a pair of leather pants?",
+      "choices": ["Monica", "Joey", "Chandler", "Ross"],
+      "answer": "Ross",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Stranger Things', what is the name of the parallel dimension?",
+      "choices": ["The Other World", "The Dark Zone", "The Upside Down", "The Underworld"],
+      "answer": "The Upside Down",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Stranger Things', what is Eleven's favorite food?",
+      "choices": ["Waffles", "Burgers", "Fries", "Pizza"],
+      "answer": "Waffles",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who plays Eleven in 'Stranger Things'?",
+      "choices": ["Sadie Sink", "Natalia Dyer", "Millie Bobby Brown", "Winona Ryder"],
+      "answer": "Millie Bobby Brown",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who is the narrator in 'How I Met Your Mother'?",
+      "choices": ["Ted Mosby (future)", "Barney Stinson", "Marshall Eriksen", "Robin Scherbatsky"],
+      "answer": "Ted Mosby (future)",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the fictional paper company in 'The Office'?",
+      "choices": ["Scranton Paper", "Dunder Mifflin", "PaperCo", "Staples Inc."],
+      "answer": "Dunder Mifflin",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which long-running medical drama is set in Grey Sloan Memorial Hospital?",
+      "choices": ["The Good Doctor", "House", "Grey's Anatomy", "ER"],
+      "answer": "Grey's Anatomy",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the pub in 'How I Met Your Mother'?",
+      "choices": ["The Drunken Clam", "Cheers", "MacLaren's Pub", "Paddy's Pub"],
+      "answer": "MacLaren's Pub",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character says 'You have failed this city'?",
+      "choices": ["Arrow", "The Flash", "Supergirl", "Titans"],
+      "answer": "Arrow",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the planet visited in the first episode of 'Doctor Who' 2005?",
+      "choices": ["Earth", "New Earth", "Gallifrey", "Platform One"],
+      "answer": "Platform One",
+      "langType": "englishtvshows"
+    },
+
+    {
+      "question": "Which British actor plays Sherlock Holmes in the BBC series 'Sherlock'?",
+      "choices": ["Tom Hiddleston", "Benedict Cumberbatch", "Daniel Radcliffe", "David Tennant"],
+      "answer": "Benedict Cumberbatch",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the real name of the superhero known as 'The Flash'?",
+      "choices": ["Clark Kent", "Bruce Wayne", "Barry Allen", "Peter Parker"],
+      "answer": "Barry Allen",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Game of Thrones', who is known as the Mother of Dragons?",
+      "choices": ["Sansa Stark", "Daenerys Targaryen", "Cersei Lannister", "Arya Stark"],
+      "answer": "Daenerys Targaryen",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which show features a hacker named Elliot working for fsociety?",
+      "choices": ["Mr. Robot", "Silicon Valley", "Blacklist", "You"],
+      "answer": "Mr. Robot",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character is a telepath in 'X-Men' based show 'Legion'?",
+      "choices": ["David Haller", "Charles Xavier", "Erik Lehnsherr", "Logan"],
+      "answer": "David Haller",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who is the narrator in 'How I Met Your Mother'?",
+      "choices": ["Ted Mosby (future)", "Barney Stinson", "Marshall Eriksen", "Robin Scherbatsky"],
+      "answer": "Ted Mosby (future)",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which show is set in the fictional town of Pawnee, Indiana?",
+      "choices": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Community"],
+      "answer": "Parks and Recreation",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the town in 'Stranger Things'?",
+      "choices": ["Riverdale", "Beacon Hills", "Hawkins", "Sunnydale"],
+      "answer": "Hawkins",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which TV show features a lawyer named Saul Goodman?",
+      "choices": ["Breaking Bad", "Better Call Saul", "Narcos", "The Sopranos"],
+      "answer": "Better Call Saul",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character says the iconic line 'I am Groot' in 'Guardians of the Galaxy'?",
+      "choices": ["Rocket Raccoon", "Gamora", "Drax", "Groot"],
+      "answer": "Groot",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'The Simpsons', who is known for the catchphrase 'Eat my shorts'?",
+      "choices": ["Bart Simpson", "Homer Simpson", "Lisa Simpson", "Maggie Simpson"],
+      "answer": "Bart Simpson",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Friends', what is the name of Ross's second wife?",
+      "choices": ["Carol", "Susan", "Emily", "Rachel"],
+      "answer": "Emily",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'The Crown', who plays the role of Queen Elizabeth II in Season 1?",
+      "choices": ["Olivia Colman", "Claire Foy", "Emma Corrin", "Helena Bonham Carter"],
+      "answer": "Claire Foy",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character in 'Stranger Things' is known for the phrase 'Friends don't lie'?",
+      "choices": ["Mike Wheeler", "Will Byers", "Eleven", "Dustin Henderson"],
+      "answer": "Eleven",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Sherlock', who plays the role of Sherlock Holmes?",
+      "choices": ["Matt Smith", "Benedict Cumberbatch", "David Tennant", "Tom Hiddleston"],
+      "answer": "Benedict Cumberbatch",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Game of Thrones', who was known as the 'King in the North'?",
+      "choices": ["Jon Snow", "Robb Stark", "Tyrion Lannister", "Bran Stark"],
+      "answer": "Jon Snow",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character in 'The Office' says 'I'm not superstitious, but I'm a little stitious'?",
+      "choices": ["Michael Scott", "Jim Halpert", "Dwight Schrute", "Pam Beesly"],
+      "answer": "Michael Scott",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Stranger Things', what is the name of Eleven's biological mother?",
+      "choices": ["Teresa Wheeler", "Kerry Byers", "Jane Ives", "Marlene Hart"],
+      "answer": "Jane Ives",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the fictional town in 'Twin Peaks'?",
+      "choices": ["Hawkins", "Sunnydale", "Twin Peaks", "Riverdale"],
+      "answer": "Twin Peaks",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character in 'Game of Thrones' is known for the phrase 'You know nothing, Jon Snow'?",
+      "choices": ["Daenerys Targaryen", "Cersei Lannister", "Ygritte", "Sansa Stark"],
+      "answer": "Ygritte",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which TV series is set in the fictional town of Pawnee, Indiana?",
+      "choices": ["Parks and Recreation", "The Office", "Brooklyn Nine-Nine", "Community"],
+      "answer": "Parks and Recreation",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Doctor Who', who is the Doctor's companion in the 2005 reboot?",
+      "choices": ["Martha Jones", "Amy Pond", "Rose Tyler", "Clara Oswald"],
+      "answer": "Rose Tyler",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which animated series features a talking dog named Brian?",
+      "choices": ["Family Guy", "Rick and Morty", "American Dad!", "Futurama"],
+      "answer": "Family Guy",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "What is the name of the fictional superhero team in 'The Umbrella Academy'?",
+      "choices": ["The Defenders", "The X-Men", "The Avengers", "The Umbrella Academy"],
+      "answer": "The Umbrella Academy",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'Breaking Bad', what is the street name of Walter White's methamphetamine product?",
+      "choices": ["Blue Sky", "Crystal Clear", "White Gold", "Blue Magic"],
+      "answer": "Blue Sky",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "In 'The Mandalorian', what is the real name of Baby Yoda?",
+      "choices": ["Grogu", "Yaddle", "Yoda Jr.", "Grogon"],
+      "answer": "Grogu",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Which character in 'Friends' famously said 'We were on a break!'?",
+      "choices": ["Chandler Bing", "Joey Tribbiani", "Ross Geller", "Rachel Green"],
+      "answer": "Ross Geller",
+      "langType": "englishtvshows"
+    },
+    {
+      "question": "Who is the main character in the TV show 'Dexter'?",
+      "choices": ["Dexter Morgan", "Harry Morgan", "Debra Morgan", "James Doakes"],
+      "answer": "Dexter Morgan",
+      "langType": "englishtvshows"
+    }
+  ]
+  

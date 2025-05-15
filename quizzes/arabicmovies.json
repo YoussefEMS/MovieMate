@@ -1,0 +1,650 @@
+[
+    {
+      "question": "Who directed the 1958 classic film 'Cairo Station' (Bab El-Hadid)?",
+      "choices": ["Youssef Chahine", "Henry Barakat", "Salah Abu Seif", "Kamal El Sheikh"],
+      "answer": "Youssef Chahine",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "What year was the iconic Egyptian film 'The Land' (Al-Ard) released?",
+      "choices": ["1969", "1975", "1980", "1985"],
+      "answer": "1969",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actress starred in the 1963 film 'The Open Door' (Al-Bab Al-Maftouh)?",
+      "choices": ["Faten Hamama", "Soad Hosny", "Nadia Lutfi", "Shadia"],
+      "answer": "Faten Hamama",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The 1972 film 'Khalli Balak Min Zouzou' starred which famous Egyptian actress?",
+      "choices": ["Mervat Amin", "Soad Hosny", "Magda El-Khatib", "Nelly"],
+      "answer": "Soad Hosny",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian comedy film features the character 'Morgan Ahmed Morgan'?",
+      "choices": ["Asal Eswed", "Morgan Ahmed Morgan", "Samir, Shahir we Bahir", "El-Nazer"],
+      "answer": "Morgan Ahmed Morgan",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the 1997 film 'Destiny' (Al-Massir)?",
+      "choices": ["Marwan Hamed", "Youssef Chahine", "Mohamed Khan", "Daoud Abdel Sayed"],
+      "answer": "Youssef Chahine",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film was nominated for an Oscar for Best Foreign Language Film in 2006?",
+      "choices": ["The Yacoubian Building", "Heliopolis", "The Time That Remains", "Paradise Now"],
+      "answer": "Paradise Now",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "In the film 'The Blue Elephant' (El-Feel El-Azraq), what profession does Dr. Yehia work in?",
+      "choices": ["Psychiatrist", "Neurosurgeon", "General practitioner", "Pediatrician"],
+      "answer": "Psychiatrist",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actor plays the lead role in 'Terrorism and Kebab' (Al-Irhab wal Kabab)?",
+      "choices": ["Adel Imam", "Ahmed Zaki", "Nour El-Sherif", "Omar Sharif"],
+      "answer": "Adel Imam",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Asmaa' (2011) deals with which social issue?",
+      "choices": ["Women's rights", "HIV/AIDS stigma", "Drug addiction", "Religious extremism"],
+      "answer": "HIV/AIDS stigma",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who composed the music for many of Youssef Chahine's films?",
+      "choices": ["Omar Khairat", "Rageh Daoud", "Hisham Nazih", "Khaled Hammad"],
+      "answer": "Rageh Daoud",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actress is known as 'The Lady of Arab Cinema'?",
+      "choices": ["Youssra", "Faten Hamama", "Soad Hosny", "Nadia Lutfi"],
+      "answer": "Faten Hamama",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "What is the nickname of actress Soad Hosny?",
+      "choices": ["The Cinderella of Egyptian Cinema", "The Lady of the Screen", "The Arab Screen Sweetheart", "The Star of the East"],
+      "answer": "The Cinderella of Egyptian Cinema",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film was based on Naguib Mahfouz's novel of the same name?",
+      "choices": ["Adrift on the Nile", "The Yacoubian Building", "Khan El-Khalili", "Midaq Alley"],
+      "answer": "Midaq Alley",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "In the film 'The Nile Hilton Incident', what is the protagonist's profession?",
+      "choices": ["Lawyer", "Detective", "Journalist", "Doctor"],
+      "answer": "Detective",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian comedy actor was known for his character 'Ismail Yasin'?",
+      "choices": ["Fouad El-Mohandes", "Naguib El-Rihani", "Ismail Yasin", "Abdel Moneim Madbouly"],
+      "answer": "Ismail Yasin",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "What is the setting of the 2007 film 'The Island' (El-Gezira)?",
+      "choices": ["Upper Egypt", "Alexandria", "Cairo", "Sinai"],
+      "answer": "Upper Egypt",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the 2010 film 'Microphone'?",
+      "choices": ["Ahmad Abdalla", "Marwan Hamed", "Mohamed Diab", "Ibrahim El Batout"],
+      "answer": "Ahmad Abdalla",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The 1975 film 'I Want a Solution' (Oridu Hallan) addresses which social issue?",
+      "choices": ["Unemployment", "Poverty", "Divorce laws", "Drug addiction"],
+      "answer": "Divorce laws",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actor starred in both 'Al-Irhabi' and 'El-Nawm fi el-Asal'?",
+      "choices": ["Adel Imam", "Ahmed Helmy", "Mohamed Henedi", "Karim Abdel Aziz"],
+      "answer": "Adel Imam",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The historical epic 'Al-Naser Salah El-Din' depicts which historical figure?",
+      "choices": ["Muhammad Ali Pasha", "Saladin", "Ramses II", "Gamal Abdel Nasser"],
+      "answer": "Saladin",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who played the role of Hassan El-Banna in the controversial film 'The Terrorist'?",
+      "choices": ["Ahmed Zaki", "Adel Imam", "Nour El-Sherif", "Khaled El Nabawy"],
+      "answer": "Adel Imam",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film won the Grand Prize at the Cannes Film Festival in 1997?",
+      "choices": ["Alexandria... Why?", "Destiny", "The Sixth Day", "The Emigrant"],
+      "answer": "Destiny",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "What was Omar Sharif's first Egyptian film?",
+      "choices": ["The Blazing Sun", "Lady of the Palace", "River of Love", "Struggle in the Valley"],
+      "answer": "The Blazing Sun",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which film features the famous Egyptian song 'Enta Omri'?",
+      "choices": ["Khalli Balak Min Zouzou", "I Want a Solution", "Days and Nights", "Lady of the Castle"],
+      "answer": "Days and Nights",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who wrote the script for the 1972 film 'Al-Karnak'?",
+      "choices": ["Naguib Mahfouz", "Wahid Hamed", "Ihsan Abdel Quddous", "Salah Jahin"],
+      "answer": "Naguib Mahfouz",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian director made the film trilogy 'Alexandria...Why?', 'An Egyptian Story', and 'Alexandria...Again and Forever'?",
+      "choices": ["Marwan Hamed", "Youssef Chahine", "Henry Barakat", "Mohamed Khan"],
+      "answer": "Youssef Chahine",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "In which year was the film 'The Nightingale's Prayer' (Doaa Al-Karawan) released?",
+      "choices": ["1952", "1959", "1964", "1970"],
+      "answer": "1959",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actress starred in 'The Sin' (Al-Haram) directed by Henry Barakat?",
+      "choices": ["Faten Hamama", "Shadia", "Soad Hosny", "Hind Rostom"],
+      "answer": "Faten Hamama",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The comedy 'El-Lemby' launched which actor's career?",
+      "choices": ["Ahmed Helmy", "Mohamed Saad", "Mohamed Henedi", "Karim Abdel Aziz"],
+      "answer": "Mohamed Saad",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which film is based on Taha Hussein's autobiography?",
+      "choices": ["The Days", "The Land", "The Collar and the Bracelet", "The Impossible"],
+      "answer": "The Days",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the 1999 film 'El-Medina' (The City)?",
+      "choices": ["Yousry Nasrallah", "Youssef Chahine", "Atef El-Tayeb", "Daoud Abdel Sayed"],
+      "answer": "Yousry Nasrallah",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film addresses the 1967 Six-Day War defeat?",
+      "choices": ["The Sparrow", "The Visitor", "The Innocent", "The Journey"],
+      "answer": "The Sparrow",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "In 'Abboud at the Border', what is Abboud's profession?",
+      "choices": ["Taxi driver", "Customs officer", "Police officer", "Border guard"],
+      "answer": "Customs officer",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actress starred in 'The Beginning and the End' (Al-Bidaya wa al-Nihaya)?",
+      "choices": ["Amina Rizk", "Soad Hosny", "Sanaa Gamil", "Faten Hamama"],
+      "answer": "Sanaa Gamil",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "What is the main theme of the film 'Clash' (Eshtebak)?",
+      "choices": ["Political upheaval", "Family drama", "Religious conflict", "Crime thriller"],
+      "answer": "Political upheaval",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film was remade as 'Perfect Strangers' in multiple countries?",
+      "choices": ["Welad Rizk", "Sheikh Jackson", "Hepta", "Excuse My French"],
+      "answer": "Excuse My French",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who played the character 'Tito' in the film 'Tito'?",
+      "choices": ["Ahmed El-Sakka", "Ahmed Helmy", "Karim Abdel Aziz", "Mohamed Ramadan"],
+      "answer": "Ahmed El-Sakka",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actress starred opposite Ahmed Zaki in 'The Innocent'?",
+      "choices": ["Mervat Amin", "Nadia Lutfi", "Youssra", "Madiha Kamel"],
+      "answer": "Mervat Amin",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The 1991 film 'Mercedes' was directed by whom?",
+      "choices": ["Yousry Nasrallah", "Khairy Beshara", "Atef El-Tayeb", "Mohamed Khan"],
+      "answer": "Yousry Nasrallah",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which film features the story of a blind university professor?",
+      "choices": ["The Nightingale's Prayer", "Taha Hussein", "The Days", "My Father Above the Tree"],
+      "answer": "The Days",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who composed the music for the film 'Ahlam Hind wa Kamilia'?",
+      "choices": ["Omar Khairat", "Yasser Abdel Rahman", "Mohamed Mounir", "Ammar El Sherei"],
+      "answer": "Omar Khairat",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film was shot entirely in Lebanon?",
+      "choices": ["Alexandria...Why?", "The Malatili Bathhouse", "Beirut Oh Beirut", "The Bus Driver"],
+      "answer": "Beirut Oh Beirut",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'El-Asfour' (The Sparrow) was directed by whom?",
+      "choices": ["Salah Abu Seif", "Henry Barakat", "Youssef Chahine", "Tawfik Saleh"],
+      "answer": "Youssef Chahine",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actor starred in the film 'El-Nawm Fi El-Asal'?",
+      "choices": ["Mohamed Henedi", "Adel Imam", "Ahmed Helmy", "Ahmed Zaki"],
+      "answer": "Adel Imam",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "In the film 'Al-Irhab wal Kabab', what does the main character try to do at a government building?",
+      "choices": ["Get a job", "Renew his license", "File a complaint", "Meet with an official"],
+      "answer": "Renew his license",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actress is known for her role in 'The Nightingale's Prayer'?",
+      "choices": ["Faten Hamama", "Shadia", "Soad Hosny", "Magda"],
+      "answer": "Faten Hamama",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Zawgat Ragol Mohim' stars which Egyptian actor?",
+      "choices": ["Rushdy Abaza", "Omar Sharif", "Ahmed Mazhar", "Shukry Sarhan"],
+      "answer": "Rushdy Abaza",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the film 'Al-Ard' (The Land)?",
+      "choices": ["Salah Abu Seif", "Youssef Chahine", "Mohamed Khan", "Henry Barakat"],
+      "answer": "Youssef Chahine",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actor played the role of President Gamal Abdel Nasser in multiple films?",
+      "choices": ["Ahmed Zaki", "Adel Imam", "Nour El-Sherif", "Hesham Selim"],
+      "answer": "Ahmed Zaki",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Al-Kit Kat' is set in which Cairo neighborhood?",
+      "choices": ["Zamalek", "Heliopolis", "El-Kit Kat", "Downtown"],
+      "answer": "El-Kit Kat",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the 1988 film 'El-Beh El-Bawab'?",
+      "choices": ["Mohamed Khan", "Atef El-Tayeb", "Daoud Abdel Sayed", "Khairy Beshara"],
+      "answer": "Mohamed Khan",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film was based on the novel by Ihsan Abdel Quddous?",
+      "choices": ["I Am Free", "The Empty Pillow", "The Thin Thread", "The Open Door"],
+      "answer": "I Am Free",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "In which year was the Cairo International Film Festival established?",
+      "choices": ["1970", "1976", "1982", "1990"],
+      "answer": "1976",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actress starred in 'The Mummy' (1969)?",
+      "choices": ["Shadia", "Magda El-Khatib", "Nabila Ebeid", "Lobna Abdel Aziz"],
+      "answer": "Lobna Abdel Aziz",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the film 'Al-Baree' (The Innocent)?",
+      "choices": ["Atef El-Tayeb", "Mohamed Khan", "Daoud Abdel Sayed", "Khairy Beshara"],
+      "answer": "Atef El-Tayeb",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which film features the story of a teacher who returns to his village?",
+      "choices": ["El-Ard", "El-Modarres Wal Talameez", "Return of the Prodigal Son", "Nasser 56"],
+      "answer": "El-Modarres Wal Talameez",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "What is the profession of the main character in 'Kaboria'?",
+      "choices": ["Fisherman", "Taxi driver", "Lawyer", "Teacher"],
+      "answer": "Taxi driver",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film was shot in the ancient temples of Luxor?",
+      "choices": ["The Mummy", "The Night of Counting the Years", "Adrift on the Nile", "Destiny"],
+      "answer": "The Night of Counting the Years",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the film 'Al-Erhab wal Kabab'?",
+      "choices": ["Sherif Arafa", "Mohamed Khan", "Atef El-Tayeb", "Nader Galal"],
+      "answer": "Sherif Arafa",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actor starred in 'El Noom fi El Asal' and 'El Mansi'?",
+      "choices": ["Adel Imam", "Ahmed Zaki", "Nour El-Sherif", "Mahmoud Abdel Aziz"],
+      "answer": "Adel Imam",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Heya Fawda' was co-directed by Youssef Chahine and whom?",
+      "choices": ["Khaled Youssef", "Atef El-Tayeb", "Daoud Abdel Sayed", "Mohamed Khan"],
+      "answer": "Khaled Youssef",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film won the Golden Bear at the Berlin International Film Festival?",
+      "choices": ["Clash", "The Square", "Microphone", "The Night of Counting the Years"],
+      "answer": "The Night of Counting the Years",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who played the role of 'El-Limby' in the popular Egyptian comedy series?",
+      "choices": ["Ahmed Helmy", "Mohamed Saad", "Karim Abdel Aziz", "Mohamed Henedi"],
+      "answer": "Mohamed Saad",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian director made the film 'The Yacoubian Building'?",
+      "choices": ["Marwan Hamed", "Sherif Arafa", "Khaled Youssef", "Daoud Abdel Sayed"],
+      "answer": "Marwan Hamed",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Afarit El-Asphalt' was directed by whom?",
+      "choices": ["Osama Fawzi", "Daoud Abdel Sayed", "Khaled Youssef", "Ibrahim El Batout"],
+      "answer": "Osama Fawzi",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actor starred as 'Bobbos' in the 1995 film 'Hello America'?",
+      "choices": ["Mohamed Henedi", "Ahmed Helmy", "Adel Imam", "Ahmed El-Sakka"],
+      "answer": "Mohamed Henedi",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "In which year was the film 'Asal Eswed' released?",
+      "choices": ["2006", "2010", "2014", "2018"],
+      "answer": "2010",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who composed the soundtrack for the film 'Hepta: The Last Lecture'?",
+      "choices": ["Hesham Nazih", "Tamer Karawan", "Omar Khairat", "Amr Ismail"],
+      "answer": "Hesham Nazih",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actress starred in the film 'Leh Khaletny Ahebak' (Why Did You Make Me Love You)?",
+      "choices": ["Youssra", "Elham Shahin", "Mona Zaki", "Leila Elwi"],
+      "answer": "Leila Elwi",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Al-Bedaya' (The Beginning) stars which Egyptian actor?",
+      "choices": ["Khaled El Nabawy", "Ahmed El-Sakka", "Amr Waked", "Karim Abdel Aziz"],
+      "answer": "Khaled El Nabawy",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film was shot in Nubia before the construction of the High Dam?",
+      "choices": ["The Mummy", "Black Waters", "Adrift on the Nile", "Bride of the Nile"],
+      "answer": "Bride of the Nile",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The comedy film 'Abboud at the Border' stars which actor?",
+      "choices": ["Ahmed Helmy", "Adel Imam", "Mohamed Henedi", "Karim Abdel Aziz"],
+      "answer": "Adel Imam",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actress was known as 'The Marilyn Monroe of the East'?",
+      "choices": ["Hind Rostom", "Soad Hosny", "Nadia Lutfi", "Magda"],
+      "answer": "Hind Rostom",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the film 'Lailat El-Baby Doll'?",
+      "choices": ["Youssef Chahine", "Mohamed Khan", "Atef El-Tayeb", "Daoud Abdel Sayed"],
+      "answer": "Atef El-Tayeb",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Abracadabra America' stars which comedic actor?",
+      "choices": ["Ahmed Helmy", "Mohamed Henedi", "Mohamed Saad", "Alaa Waley El Din"],
+      "answer": "Mohamed Henedi",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actress starred in 'The Thief and the Dogs' (El-Less Wal Kelab)?",
+      "choices": ["Shadia", "Soad Hosny", "Shwikar", "Nadia Lutfi"],
+      "answer": "Shadia",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "In which year was the film 'Factory Girl' released?",
+      "choices": ["2009", "2013", "2016", "2018"],
+      "answer": "2013",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the 2016 film 'Sheikh Jackson'?",
+      "choices": ["Amr Salama", "Mohamed Diab", "Marwan Hamed", "Tamer Mohsen"],
+      "answer": "Amr Salama",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film was inspired by the story of Hassan El-Banna?",
+      "choices": ["The Terrorist", "The Island", "Nasser 56", "Destiny"],
+      "answer": "The Terrorist",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Welad Rizk' follows how many brothers?",
+      "choices": ["Three", "Four", "Five", "Six"],
+      "answer": "Four",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actor starred in 'The Treasure' (El Kenz)?",
+      "choices": ["Mohamed Ramadan", "Ahmed El-Sakka", "Mohamed Saad", "Karim Abdel Aziz"],
+      "answer": "Mohamed Ramadan",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "What year was Studio Misr, Egypt's first film studio, established?",
+      "choices": ["1925", "1935", "1945", "1955"],
+      "answer": "1935",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film features the music of Sheikh Imam?",
+      "choices": ["El-Irhab wal Kabab", "The Terrorist", "Afarit El-Asphalt", "Abboud at the Border"],
+      "answer": "Afarit El-Asphalt",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who starred in the 2003 film 'Sahar El-Layali' (Sleepless Nights)?",
+      "choices": ["Hanan Turk", "Mona Zaki", "Hind Sabri", "May Ezz Eldin"],
+      "answer": "Mona Zaki",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Heya Fawda' addresses which social issue?",
+      "choices": ["Police brutality", "Religious extremism", "Women's rights", "Economic inequality"],
+      "answer": "Police brutality",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actor played the role of President Anwar Sadat in 'Days of Sadat'?",
+      "choices": ["Ahmed Zaki", "Amr Waked", "Nour El-Sherif", "Khaled El Nabawy"],
+      "answer": "Ahmed Zaki",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the 2008 film 'Ehky Ya Scheherazade' (Scheherazade, Tell Me a Story)?",
+      "choices": ["Yousry Nasrallah", "Youssef Chahine", "Kamla Abu Zekry", "Mohamed Diab"],
+      "answer": "Yousry Nasrallah",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'El-Maslaha' (The Deal) is set in which location?",
+      "choices": ["Alexandria", "Sinai", "Aswan", "Hurghada"],
+      "answer": "Sinai",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who wrote the novel that 'The Yacoubian Building' film was based on?",
+      "choices": ["Naguib Mahfouz", "Alaa Al Aswany", "Taha Hussein", "Yusuf Idris"],
+      "answer": "Alaa Al Aswany",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "In the film 'Hepta: The Last Lecture', how many stages of love are discussed?",
+      "choices": ["Five", "Six", "Seven", "Eight"],
+      "answer": "Seven",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which actress starred in the film 'One-Zero'?",
+      "choices": ["Elham Shahin", "Ilham Shaheen", "Youssra", "Mona Zaki"],
+      "answer": "Elham Shahin",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'El-Feel El-Azraq 2' is set primarily in which location?",
+      "choices": ["Cairo", "Alexandria", "Luxor", "Hurghada"],
+      "answer": "Alexandria",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the 1992 film 'Mercedes'?",
+      "choices": ["Youssef Chahine", "Mohamed Khan", "Atef El-Tayeb", "Khairy Beshara"],
+      "answer": "Youssef Chahine",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actor is known for the character 'El-Wad Sayed El-Shaghaal'?",
+      "choices": ["Ahmed Zaki", "Adel Imam", "Mohamed Henedi", "Nour El-Sherif"],
+      "answer": "Adel Imam",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Sukkar Mor' (Bitter Sugar) was directed by whom?",
+      "choices": ["Hani Khalifa", "Khaled Marei", "Ahmed Helmy", "Khaled Youssef"],
+      "answer": "Hani Khalifa",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film was selected as the country's entry for Best Foreign Language Film at the 90th Academy Awards?",
+      "choices": ["Sheikh Jackson", "Clash", "The Nile Hilton Incident", "Ali, the Goat and Ibrahim"],
+      "answer": "Sheikh Jackson",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who played the character 'Suleiman Al-Halabi' in the film of the same name?",
+      "choices": ["Ahmed Zaki", "Nour El-Sherif", "Khaled El Nabawy", "Mohamed Sobhi"],
+      "answer": "Nour El-Sherif",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which film follows the story of a professor accused of contempt of religion?",
+      "choices": ["Laylat el-Baby Doll", "Molasses", "A Citizen, a Detective, and a Thief", "Al-Maseeh"],
+      "answer": "Al-Maseeh",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'Asmaa' stars which Egyptian actress in the title role?",
+      "choices": ["Hend Sabry", "Mona Zaki", "Boshra", "Ilham Shaheen"],
+      "answer": "Hend Sabry",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian comedy actor starred in 'El Nazer' (The Principal)?",
+      "choices": ["Ahmed Helmy", "Adel Imam", "Mohamed Henedi", "Alaa Waley El Din"],
+      "answer": "Adel Imam",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The historical film 'Al-Massir' focuses on which historical figure?",
+      "choices": ["Ibn Rushd", "Ibn Sina", "Al-Farabi", "Ibn Khaldun"],
+      "answer": "Ibn Rushd",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian actor starred in 'Ibrahim El-Abyad'?",
+      "choices": ["Ahmed El-Sakka", "Mohamed Ramadan", "Karim Abdel Aziz", "Amr Waked"],
+      "answer": "Ahmed El-Sakka",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the film 'Elmakhadeoon' (The Deceivers)?",
+      "choices": ["Atef El-Tayeb", "Kamal El Sheikh", "Henry Barakat", "Mohamed Khan"],
+      "answer": "Kamal El Sheikh",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian film focuses on the story of a schizophrenic patient?",
+      "choices": ["El-Feel El-Azraq", "Messages from the Sea", "El-Gezira", "El Kit Kat"],
+      "answer": "El-Feel El-Azraq",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "The film 'El Medina' (The City) stars which actor?",
+      "choices": ["Mahmoud Hemida", "Khaled Abol Naga", "Amr Waked", "Bassem Samra"],
+      "answer": "Khaled Abol Naga",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Who directed the 2017 film 'Sheikh Jackson'?",
+      "choices": ["Mohamed Diab", "Amr Salama", "Tamer Mohsen", "Sherif Arafa"],
+      "answer": "Amr Salama",
+      "langType": "arabicmovies"
+    },
+    {
+      "question": "Which Egyptian comedy film features the character 'Bakhit and Adila'?",
+      "choices": ["El Limby", "Abboud at the Border", "Ramadan Mabrouk Abu El-Alamein Hamouda", "Bakhit and Adila"],
+      "answer": "Bakhit and Adila",
+      "langType": "arabicmovies"
+    }
+  ]
