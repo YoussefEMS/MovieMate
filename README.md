@@ -21,6 +21,38 @@ A Scala-based interactive rule-based chatbot that provides movie and TV show rec
 - Logging system for quiz responses
 - Interactive web interface with analytics dashboard
 
+## Data
+
+- The dataset is collected from The Movie Database (TMDb) API and includes comprehensive information about movies and TV shows in both English and Arabic. The data is stored in CSV.
+- Each entry in the dataset contains the following fields:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| title | String | Name of the movie or TV show |
+| type | String | Either "movie" or "tv" |
+| release_year | Integer | Year of release (1975-2026) |
+| genres | String | Comma-separated list of genres |
+| rating | Double | Average rating score (0-10) |
+| director | String | Name of the director |
+| cast | String | Top 5 cast members, comma-separated |
+| platform | String | Streaming platform availability |
+| description | String | Plot overview |
+
+### Data Categories
+
+The dataset includes four main categories:
+1. English Movies
+2. English TV Shows
+3. Arabic Egyptian Movies
+4. Arabic Egyptian TV Shows
+
+### Data Quality
+
+- All text fields are properly escaped
+- Missing values are handled gracefully
+- Duplicate entries are removed
+- Data is validated before storage
+
 ## Prerequisites
 
 - Java Development Kit (JDK) 11 or higher
