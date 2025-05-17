@@ -165,9 +165,9 @@ The trivia system features questions about movies and TV shows in both English a
 
 
 ## Team
-Youssef Ihab
-Ahmed Yasser
-Youssef Ashoush
-Youssef Wael
+- Youssef Ihab
+- Ahmed Yasser
+- Youssef Ashoush
+- Youssef Wael
 
 
