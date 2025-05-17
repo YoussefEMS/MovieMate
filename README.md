@@ -164,8 +164,10 @@ The trivia system features questions about movies and TV shows in both English a
 - requests >= 2.28.2 (for HTTP requests)
 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Team
+Youssef Ihab
+Ahmed Yasser
+Youssef Ashoush
+Youssef Wael
 
 
