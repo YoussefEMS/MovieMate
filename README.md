@@ -64,8 +64,8 @@ The dataset includes four main categories:
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
-   cd [repository-name]
+   git clone [https://github.com/YoussefEMS/MovieMate](https://github.com/YoussefEMS/MovieMate)
+   cd MovieMate
    ```
 
 2. Install sbt dependencies:
