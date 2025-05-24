@@ -64,7 +64,7 @@ The dataset includes four main categories:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YoussefEMS/MovieMate](https://github.com/YoussefEMS/MovieMate)
+   git clone https://github.com/YoussefEMS/MovieMate
    cd MovieMate
    ```
 
